@@ -1,0 +1,15 @@
+C:\Users\IT\source\repos\ChatSession.Api\ChatSession.Dal\bin\Debug\net8.0\ChatSession.Dal.deps.json
+C:\Users\IT\source\repos\ChatSession.Api\ChatSession.Dal\bin\Debug\net8.0\ChatSession.Dal.dll
+C:\Users\IT\source\repos\ChatSession.Api\ChatSession.Dal\bin\Debug\net8.0\ChatSession.Dal.pdb
+C:\Users\IT\source\repos\ChatSession.Api\ChatSession.Dal\bin\Debug\net8.0\ChatSession.Models.dll
+C:\Users\IT\source\repos\ChatSession.Api\ChatSession.Dal\bin\Debug\net8.0\ChatSession.Models.pdb
+C:\Users\IT\source\repos\ChatSession.Api\ChatSession.Dal\obj\Debug\net8.0\ChatSession.Dal.csproj.AssemblyReference.cache
+C:\Users\IT\source\repos\ChatSession.Api\ChatSession.Dal\obj\Debug\net8.0\ChatSession.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT\source\repos\ChatSession.Api\ChatSession.Dal\obj\Debug\net8.0\ChatSession.Dal.AssemblyInfoInputs.cache
+C:\Users\IT\source\repos\ChatSession.Api\ChatSession.Dal\obj\Debug\net8.0\ChatSession.Dal.AssemblyInfo.cs
+C:\Users\IT\source\repos\ChatSession.Api\ChatSession.Dal\obj\Debug\net8.0\ChatSession.Dal.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\ChatSession.Api\ChatSession.Dal\obj\Debug\net8.0\ChatSess.68A16E9F.Up2Date
+C:\Users\IT\source\repos\ChatSession.Api\ChatSession.Dal\obj\Debug\net8.0\ChatSession.Dal.dll
+C:\Users\IT\source\repos\ChatSession.Api\ChatSession.Dal\obj\Debug\net8.0\refint\ChatSession.Dal.dll
+C:\Users\IT\source\repos\ChatSession.Api\ChatSession.Dal\obj\Debug\net8.0\ChatSession.Dal.pdb
+C:\Users\IT\source\repos\ChatSession.Api\ChatSession.Dal\obj\Debug\net8.0\ref\ChatSession.Dal.dll
